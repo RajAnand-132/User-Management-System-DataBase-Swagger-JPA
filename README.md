@@ -260,14 +260,15 @@ User with ID 1 updated
 #### Response:
 User with ID 20 deleted
 
-## Support
+## Contact Information
 
-For support, email abc@gmail.com or join our Slack channel.
+If you have any questions, issues, or need further assistance related to the Job Search Portal project, feel free to contact us. We are here to help!
+
+- **Raj Anand**
+  - Email: rajanandxxxx@example.com
+  - LinkedIn: [Raj Anand's LinkedIn Profile]()
+  - GitHub: [Raj Anand's GitHub Profile]()
 
 
-## Acknowledgements
-
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+Please don't hesitate to reach out if you have any inquiries or need assistance with any aspect of the project. Your feedback and questions are important to us.
 
